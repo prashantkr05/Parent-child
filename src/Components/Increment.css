@@ -1,0 +1,35 @@
+.Sender-cls {
+
+    width: 300px;
+
+    border: 15px solid rgb(229, 14, 78);
+    border-radius: 15px;
+    padding: 50px;
+    margin: 20px;
+    background-color: rgba(34, 172, 172, 0.468);
+    height: 130px;
+
+}
+.Reciever-cls {
+
+    width: 300px;
+    border: 15px solid rgb(32, 229, 14);
+    padding: 50px;
+    border-radius: 15px;
+    margin: 20px;
+    background-color: rgba(34, 172, 172, 0.237);
+    height: 130px;
+
+}
+button{
+
+    transition-duration: 0.4s;
+    height: 50px;
+    width: 100px;  
+}
+
+  button:hover {
+    background-color: #af4cad; /* Green */
+    color: white;
+
+  }
